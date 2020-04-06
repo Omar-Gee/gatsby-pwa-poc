@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
-    <a href="https://d1oq5edtpw689g.cloudfront.net/createEvent" target="_blank" rel="noopener noreferrer">
+    <a href="https://d1oq5edtpw689g.cloudfront.net/createEvent">
       <button>Create event</button>
     </a>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
